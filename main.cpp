@@ -76,6 +76,5 @@ int main() {
 	delete bounty;
 
 	return 0;
-
 		
 }
